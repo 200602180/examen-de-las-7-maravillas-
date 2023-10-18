@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>MACHU PICCHU</title>
+    </head>
+    <body>
+    <a href="../Examen/index">Haz clic para regresar</a>
+        <h1 aling="center">MACHU PICCHU</h1> 
+        <p aling="justify">El Santuario Histórico de Machu Picchu se ubica en la provincia de Urubamba, Región Cusco. Comprende un extenso paisaje cultural y <br>
+            natural localizado en diversos ecosistemas, en el que también existen otros sitios arqueológicos conectados por caminos que conducen a la <br>
+            ciudad inca. Machu Picchu es el sitio arqueológico inca más sobresaliente debido a su creativo diseño urbano, la belleza de su arquitectura <br>
+            y el fino trabajo en piedra de sus construcciones. En su planificación se aprovechó notablemente la topografía de la cima de la montaña a <br>
+            la que transformó en una imponente llaqta. Fue edificada en el siglo XV por el Inca Pachacuteq, abandonada en los primeros años de colonia <br>
+            española y redescubierta en el año 1911. La arquitectura de esta ciudad inka, plasmada en sus 200 recintos, se mimetiza excepcionalmente <br>
+            con el maravilloso entorno natural al que se encuentra estrechamente ligado.</p>
+        <img src="https://patrimoniomundial.cultura.pe/sites/default/files/styles/home_slider/adaptive-image/public/pm/galeria/Sector-Civil.png?itok=-WFE3Bpf" alt="" width="300" height="300">
+        <img src="https://patrimoniomundial.cultura.pe/sites/default/files/styles/home_slider/adaptive-image/public/pm/galeria/Templo-de-la-Luna.png?itok=ILnDIT3A" alt="" width="300" height="300">
+        <img src="https://patrimoniomundial.cultura.pe/sites/default/files/styles/home_slider/adaptive-image/public/pm/galeria/Machu-Picchu.png?itok=k3WG6BD_" alt="" width="300" height="300">
+        <img src="https://patrimoniomundial.cultura.pe/sites/default/files/styles/home_slider/adaptive-image/public/pm/galeria/Intihuatana.png?itok=td6lzR20" alt="" width="300" height="300">
+        <img src="https://static.nationalgeographicla.com/files/styles/image_3200/public/92491.webp?w=1600&h=900" alt="" width="300" height="300">
+        <p>Esta antigua ciudad inca es uno de los tesoros más preciados de Perú. Fue construida a mediados del siglo XV y se cree que fue una de las <br>
+            residencias del noveno inca del Tahuantinsuyo, Pachacútec, aunque en ella también están los restos de un santuario. Su nombre significa <br>
+            montaña vieja, y hace alusión al lugar donde se ubica, a unos 2453 metros de altura, en un promontorio rocoso entre los cerros de Huchuy <br>
+            Picchu y Huayna Picchu. Actualmente, esta joya inca es uno de los focos turísticos del país. Los viajeros se acercan hasta Aguas Calientes <br>
+            para iniciar la ruta inca que Hiram Bingham, el profesor de Yale, popularizó a principios del siglo XX. El Santuario histórico de Machu <br>
+            Picchu está considerado como una de las siete nuevas maravillas del mundo moderno y ha sido declarado como Patrimonio de la Humanidad en 1983.</p>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhhG-GilFMwKq7lff-HpwZDMQHymOjJYt5ww&usqp=CAU" alt="" width="300" height="300">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAqACSRXVwlRc3ggV6UNAr0ro8cbseiykOTw&usqp=CAU" alt="" width="300" height="300">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaJ0RJLyXXt23cSBwadduWvvB5YA1snoA-4g&usqp=CAU" alt="" width="300" height="300">
+        <img src="https://ichef.bbci.co.uk/news/640/cpsprodpb/B6AB/production/_108936764_rualdomenegat.jpg" alt="" width="300" height="300">
+        <img src="https://incarail.com/public/img/machupicchu/mapa_ciudad_inca-movil.jpg" alt="" width="300" height="300">

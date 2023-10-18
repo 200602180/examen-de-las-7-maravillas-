@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>PETRA</title>
+    </head>
+    <body>
+    <a href="../Examen/index">Haz clic para regresar</a>
+        <h1 aling="center">PETRA</h1> 
+        <p aling="justify">Petra es una antigua ciudad del Oriente Próximo excavada en la roca. Llamada también «la ciudad rosa» por el color único de su faja montañosa, <br>
+            Petra constituye un rico conjunto arqueológico del tiempo de los nabateos, que combina elementos orientales y occidentales. Templos, tumbas, túneles, <br>
+            presas y canales se combinan con un paisaje único de arenisca roja. Por todo ello, es Patrimonio de la Humanidad por la UNESCO desde 1985, e integra <br>
+            la lista de las Nuevas Siete Maravillas del Mundo desde 2007. La ciudad de Petra se ubica cerca del Golfo de Áqaba, entre el Mar Rojo y el Mar Muerto <br>
+            en Jordania. Este punto fue un importante cruce de caminos de las rutas comerciales de la antigüedad, gracias a que ofrecía una buena canalización de <br>
+            aguas y condiciones de seguridad. Por ello, Petra se convirtió en el asentamiento de una gran proeza arquitectónica y de ingeniería en medio de <br>
+            excepcionales condiciones naturales.</p>
+        <img src="https://cdn.culturagenial.com/es/imagenes/tierra-o-grava-0-cke.jpg" alt="" width="300" height="300">
+        <img src="https://cdn.culturagenial.com/es/imagenes/petra-g0fb4d6f23-1920-cke.jpg" alt="" width="300" height="300">
+        <img src="https://cdn.culturagenial.com/es/imagenes/2880px-al-deir-monastery-in-petra-cke.jpg" alt="" width="300" height="300">
+        <img src="https://cdn.culturagenial.com/es/imagenes/blue-chapel-petra-02-capitello-nabateo.jpg" alt="" width="300" height="300">
+        <img src="https://cdn.culturagenial.com/es/imagenes/imagen-de-a-href-httpspixabay-comesuserschiemseherin-1425977utm-source-link-attribution-amp-utm-medium-referral-amp-utm-campaign-image-amp-utm-content-6299879chiemseherina-en-a-href-httpspixabay-comesutm-sou-cke.jpg" alt="" width="300" height="300">
+        <p> <h2>Arquitectura del conjunto arqueológico de Petra</h2>
+            Los puntos más emblemáticos de la ciudad de Petra son:
+            <ul>
+                <li>El Siq o El Pozo (puerta de Petra)</li>
+                <li>Al Khasneh o Tesoro de Petra</li>
+                <li>Ad Deir o El Monasterio</li>
+                <li>Tumbas Reales (Tumba de Urna, Tumba del Palacio, Tumba Corintia y Tumba de la Seda)</li>
+                <li>La Calle de las Fachadas</li>
+                <li>Teatro de Petra.</li>
+                <li>Gran Templo de Petra.</li>
+            </ul></p>
+        <img src="https://cdn.culturagenial.com/es/imagenes/urn-tomb-petra-01-cke.jpg" alt="" width="300" height="300">
+        <img src="https://cdn.culturagenial.com/es/imagenes/palace-tomb-petra-cke.jpg" alt="" width="300" height="300">
+        <img src="https://cdn.culturagenial.com/es/imagenes/2560px-corinthian-tomb-petra-jordan1-cke.jpg" alt="" width="300" height="300">
+        <img src="https://cdn.culturagenial.com/es/imagenes/petra-theater-cke.jpg" alt="" width="300" height="300">
+        <img src="https://cdn.culturagenial.com/es/imagenes/20-petra-monastery-trail-a-view-of-petra-panoramio-cke.jpg" alt="" width="300" height="300">
